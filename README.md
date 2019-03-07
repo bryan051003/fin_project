@@ -8,4 +8,7 @@
   - [python 線上課程](https://cognitiveclass.ai/learn/data-science-with-python/)
   - [作業原程式](https://github.com/MiccWan/Political-News-Analysis)
   - [drawio](https://www.draw.io/)
+- 作業
+  - [流程圖](https://github.com/bryan051003/fin_project/blob/master/HW0/HW0.pdf)
+  - [註解](https://github.com/bryan051003/fin_project/blob/master/HW0/HW0_new_talk_crawler.ipynb)
 ***
