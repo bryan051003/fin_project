@@ -5,7 +5,7 @@
    
 #### Week 1: 
 - [課程ppt](https://ppt.cc/fUjvPx)
-  - [python 線上課程] (https://cognitiveclass.ai/learn/data-science-with-python/)
-  - [作業原程式] (https://github.com/MiccWan/Political-News-Analysis)
-  - [drawio] (https://www.draw.io/)
+  - [python 線上課程](https://cognitiveclass.ai/learn/data-science-with-python/)
+  - [作業原程式](https://github.com/MiccWan/Political-News-Analysis)
+  - [drawio](https://www.draw.io/)
 ***
